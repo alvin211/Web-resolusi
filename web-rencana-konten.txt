@@ -1,10 +1,8 @@
 Renacana Konten Belajar
 -Laravel Rest-Api
 Laravel Project
-* Web Mahasaiswa
-* Toko Online
-* Movie Sinopsis Detail
-- Menambahkan Struktur Data Dasar
+* Sistem Hotel
+* Sistem Penyimpanan Barang
 CI/CD
 Docker
 AWS
