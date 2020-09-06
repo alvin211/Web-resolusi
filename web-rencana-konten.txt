@@ -8,3 +8,4 @@ Laravel Project
 CI/CD
 Docker
 AWS
+Python
