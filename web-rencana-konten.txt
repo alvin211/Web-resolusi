@@ -4,6 +4,7 @@ Laravel Project
 * Web Mahasaiswa
 * Toko Online
 * Movie Sinopsis Detail
+- Menambahkan Struktur Data Dasar
 CI/CD
 Docker
 AWS
